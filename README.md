@@ -16,6 +16,7 @@
 - textblob
 
 ## 项目架构
+```
 /txt_analyzer
 │
 ├── output/
@@ -26,6 +27,7 @@
 ├── README.md
 ├── LICENSE
 └── demonstration.py
+```
 
 ## 使用说明
 1. 将需要分析的 txt 文件放入 books 文件夹中。
